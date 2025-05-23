@@ -5,7 +5,7 @@ import os
 app = Flask(__name__)
 
 # You can get a free API key by signing up at https://openweathermap.org/api
-API_KEY = "9a4dc41846bf44352b37b199a1978209"
+API_KEY = "9a4dc41846bf44352b37b199a1978209xxxxxxx...."
 WEATHER_URL = "http://api.openweathermap.org/data/2.5/weather"
 FORECAST_URL = "http://api.openweathermap.org/data/2.5/forecast"
 
